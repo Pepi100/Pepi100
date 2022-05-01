@@ -1,6 +1,6 @@
 # Radu Nedelcu
 
-<p>Hi! I`m a 19-year-old university student from Romania, passionate computers and technology.</p>
+<p>Hi! I`m a 19-year-old university student from Romania, passionate about computers and technology.</p>
 
 ## Education
 
