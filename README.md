@@ -11,15 +11,15 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 
 ### Front End
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<code> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </code>
 
 ### Back End
- <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=blue"> 
+ <code><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=blue"> <img src="https://img.shields.io/badge/x86 Assembly-1a1a1a?style=for-the-badge"></code>
 
- ## Currently Learning: 
+ ### Currently Learning: 
  - Oracle SQL
  - OOP in C++
- - Data Structures and Algotirhms
+ - Data Structures and Algorithms
 
 
 
