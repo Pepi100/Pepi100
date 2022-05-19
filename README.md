@@ -44,7 +44,7 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 | <img src="./img/ro.svg" width="15" > Romanian | Native |
 | <img src="./img/gb.svg" width="15" > English | C2 |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pepi100&theme=github_dark&title_color=adbac7&locale=en&layout=compact&border_radius=0&border_color=444c56&custom_title=Most Used Programming Languages&langs_count=5&hide=ejs,c" alt="Pepi100" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pepi100&theme=github_dark&title_color=adbac7&locale=en&layout=compact&border_radius=0&border_color=444c56&custom_title=Most Used Programming Languages&langs_count=5&hide=ejs,c,cmake" alt="Pepi100" /></p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepi100&show_icons=false&theme=dark&title_color=166d3b&locale=en" alt="Pepi100" /></p> -->
