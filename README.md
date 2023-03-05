@@ -17,9 +17,9 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
  <code><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=blue"> <img src="https://img.shields.io/badge/x86 Assembly-1a1a1a?style=for-the-badge"></code>
 
  ### Currently Learning: 
- - Oracle SQL
- - OOP in C++
- - Data Structures and Algorithms
+ - Unity
+ - OOP in Java
+ - Networking Fundamentals
 
 
 
