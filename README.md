@@ -31,7 +31,7 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 - :triangular_ruler: 3D Printing and Modelling : <b> Fusion 360 </b>
 - :camera: Photography and photo editing : <b>Adobe Photoshop and Lightroom</b>
 - :movie_camera: Video editing : <b>Adobe Premiere Pro and After Effects</b>
-- :weight_lifting_man: Weight lifting
+- :weight_lifting: Weight lifting
 - :battery: Computer components and tech
 - :headphones: Audiophile 
 - :keyboard: Mechanical Keyboards 
