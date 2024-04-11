@@ -36,7 +36,7 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 - :headphones: Audiophile 
 - :keyboard: Mechanical Keyboards 
 
-### Currently learning: :green_book: Adobe InDesign
+### Currently learning: :green_book: Python Tkinter
 
 # Languages
 
