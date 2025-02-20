@@ -16,15 +16,6 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 ### Back End
  <code><img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=blue"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"> <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"></code>
 
- ### Currently Learning: 
- - Unity
- - OOP in Java
- - Networking Fundamentals
-
-
-
-
-
 
 # Skills and Hobbies
 
@@ -36,7 +27,7 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 - :headphones: Audiophile 
 - :keyboard: Mechanical Keyboards 
 
-### Currently learning: :green_book: Python Tkinter
+### Currently learning: :green_book: Next.js
 
 # Languages
 
@@ -44,4 +35,5 @@ I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2
 | --- | --- |
 | <img src="./img/ro.svg" width="15" > Romanian | Native |
 | <img src="./img/gb.svg" width="15" > English | C2 |
+| <img src="./img/kr.svg" width="15" > Korean | Beginner |
 
