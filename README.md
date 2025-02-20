@@ -4,7 +4,8 @@
 
 ## Education
 
-I`m currently studying Computer Science at the Univeristy of Bucharest (2021 - 2024). 
+Completed Computer Science Bachelor's degree at the Univeristy of Bucharest (2021 - 2024).
+Currently enrolled in Data Science Master's degree.
 
 
 # :open_file_folder: Tech Stack
